@@ -1,1 +1,1 @@
-code = "code는 code입니다."
+code = "혜미 코드 code는 code입니다."
